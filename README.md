@@ -1,7 +1,7 @@
 # GIFMAKR
 * its a simple gif makr which takes mp4 as an input and then converts it into a url for browser to read 
 # problems
-* 1-> ffmpeg libraries doesnt not work on the latest verision
+* 1-> ffmpeg libraries does not work on the latest verision
 * 2-> due to the neew google chrome Cross-Origins Resource Sharing (CORS) it has faced some bufferedShared issue
 
 # Solutions
